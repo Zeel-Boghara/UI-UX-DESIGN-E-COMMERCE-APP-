@@ -20,7 +20,8 @@ This project contains the UI design for an e-commerce website, including pages s
 
 Figma
 ## Style Guide
-![Alt UI](https://cdn.corenexis.com/view/?img=m/ap12/Oysfkc.jpg)
+![App Screenshot](IMAGES/Theme Board & Style Guide_page-0001.jpg)
+
 
 
 
