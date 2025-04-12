@@ -20,7 +20,7 @@ This project contains the UI design for an e-commerce website, including pages s
 
 Figma
 ## Style Guide
-![Alt Text](file:///D:/Editor%20_%20Mermaid%20Chart-2025-04-12-135852.png)
+![Alt Text](https://cdn.corenexis.com/view/?img=m/ap12/Oysfkc.jpg)
 
 
 
