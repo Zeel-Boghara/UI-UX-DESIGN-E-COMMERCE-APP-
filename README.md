@@ -20,7 +20,9 @@ This project contains the UI design for an e-commerce website, including pages s
 
 Figma
 ## Style Guide
-[Theme Board & Style Guide.pdf](https://github.com/user-attachments/files/19720356/Theme.Board.Style.Guide.pdf)
+![Alt Text](file:///D:/Editor%20_%20Mermaid%20Chart-2025-04-12-135852.png)
+
+
 
 ## Project Demo
 
