@@ -25,4 +25,5 @@ Figma
 
 ## Project Demo
 ![HII](https://github.com/Zeel-Boghara/UI-UX-DESIGN-E-COMMERCE-APP-/blob/main/IMAGES/image.png)
+![HII](https://github.com/Zeel-Boghara/UI-UX-DESIGN-E-COMMERCE-APP-/blob/main/IMAGES/image2.png)
 
