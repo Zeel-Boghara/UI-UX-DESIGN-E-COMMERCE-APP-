@@ -20,7 +20,8 @@ This project contains the UI design for an e-commerce website, including pages s
 
 Figma
 ## Style Guide
-![App Screenshot](IMAGES/Theme Board & Style Guide_page-0001.jpg)
+![Alt Text](IMAGES/Theme Board & Style Guide_page-0001.jpg)
+
 
 
 
