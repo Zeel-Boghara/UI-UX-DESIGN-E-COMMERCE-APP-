@@ -23,10 +23,6 @@ Figma
 ![HII](https://github.com/Zeel-Boghara/UI-UX-DESIGN-E-COMMERCE-APP-/blob/main/IMAGES/Theme%20Board%20%26%20Style%20Guide_page-0001.jpg)
 
 
-
-
-
-
 ## Project Demo
-
+![HII](https://github.com/Zeel-Boghara/UI-UX-DESIGN-E-COMMERCE-APP-/blob/main/IMAGES/image.png)
 
