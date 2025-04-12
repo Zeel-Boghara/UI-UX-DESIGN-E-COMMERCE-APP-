@@ -20,7 +20,7 @@ This project contains the UI design for an e-commerce website, including pages s
 
 Figma
 ## Style Guide
-![Alt Text](IMAGES/Theme Board & Style Guide_page-0001.jpg)
+![HII]([IMAGES/Theme Board & Style Guide_page-0001.jpg](https://github.com/Zeel-Boghara/UI-UX-DESIGN-E-COMMERCE-APP-/blob/main/IMAGES/Theme%20Board%20%26%20Style%20Guide_page-0001.jpg))
 
 
 
